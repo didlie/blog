@@ -7,4 +7,4 @@ github_username: didlie
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: lanyon
