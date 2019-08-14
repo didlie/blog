@@ -1,0 +1,10 @@
+# basic options
+title: NoClouds Blog
+author: Isaac Jacobs
+email: everforward@live.com
+description: NoClouds project blog for news, questions, comments and criticism.
+github_username: didlie
+
+# Build settings
+markdown: kramdown
+theme: minima
